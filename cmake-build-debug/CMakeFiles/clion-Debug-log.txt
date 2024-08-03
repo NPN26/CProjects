@@ -1,0 +1,1 @@
+CMakeLists.txt not found in /Users/nirup/CLionProjects/CProjects Select CMakeLists.txt

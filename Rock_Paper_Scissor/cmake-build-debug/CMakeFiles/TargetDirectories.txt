@@ -1,0 +1,3 @@
+/Users/nirup/CLionProjects/CProjects/Rock_Paper_Scissor/cmake-build-debug/CMakeFiles/rock_paper_cissors.dir
+/Users/nirup/CLionProjects/CProjects/Rock_Paper_Scissor/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nirup/CLionProjects/CProjects/Rock_Paper_Scissor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
