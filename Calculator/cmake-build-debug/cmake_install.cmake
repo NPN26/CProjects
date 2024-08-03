@@ -1,4 +1,4 @@
-# Install script for directory: /Users/nirup/CLionProjects/CProjects/LinkedIn Challenges/Chapter_2_Math_Quiz
+# Install script for directory: /Users/nirup/CLionProjects/CProjects/Calculator
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/nirup/CLionProjects/CProjects/LinkedIn Challenges/Chapter_2_Math_Quiz/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/nirup/CLionProjects/CProjects/Calculator/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

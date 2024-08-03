@@ -645,8 +645,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "/Users/nirup/CLionProjects/CProjects/LinkedIn Challenges/Chapter_2_Math_Quiz/cmake-build-debug",
-		"source" : "/Users/nirup/CLionProjects/CProjects/LinkedIn Challenges/Chapter_2_Math_Quiz"
+		"build" : "/Users/nirup/CLionProjects/CProjects/Calculator/cmake-build-debug",
+		"source" : "/Users/nirup/CLionProjects/CProjects/Calculator"
 	},
 	"version" : 
 	{

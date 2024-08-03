@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/nirup/CLionProjects/CProjects/LinkedIn Challenges/Chapter_2_Math_Quiz/cmake-build-debug"
+			"value" : "/Users/nirup/CLionProjects/CProjects/Calculator/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -383,7 +383,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/nirup/CLionProjects/CProjects/LinkedIn Challenges/Chapter_2_Math_Quiz/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/Users/nirup/CLionProjects/CProjects/Calculator/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -443,7 +443,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/nirup/CLionProjects/CProjects/LinkedIn Challenges/Chapter_2_Math_Quiz"
+			"value" : "/Users/nirup/CLionProjects/CProjects/Calculator"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
@@ -723,7 +723,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "math_quiz"
+			"value" : "calculator"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1022,7 +1022,7 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "math_quiz_BINARY_DIR",
+			"name" : "calculator_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1031,10 +1031,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/nirup/CLionProjects/CProjects/LinkedIn Challenges/Chapter_2_Math_Quiz/cmake-build-debug"
+			"value" : "/Users/nirup/CLionProjects/CProjects/Calculator/cmake-build-debug"
 		},
 		{
-			"name" : "math_quiz_IS_TOP_LEVEL",
+			"name" : "calculator_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1046,7 +1046,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "math_quiz_SOURCE_DIR",
+			"name" : "calculator_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1055,7 +1055,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/nirup/CLionProjects/CProjects/LinkedIn Challenges/Chapter_2_Math_Quiz"
+			"value" : "/Users/nirup/CLionProjects/CProjects/Calculator"
 		}
 	],
 	"kind" : "cache",

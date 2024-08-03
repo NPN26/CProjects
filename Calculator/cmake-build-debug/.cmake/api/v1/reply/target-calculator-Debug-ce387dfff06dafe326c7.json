@@ -2,7 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "math_quiz"
+			"path" : "calculator"
 		}
 	],
 	"backtrace" : 1,
@@ -53,7 +53,7 @@
 			]
 		}
 	],
-	"id" : "math_quiz::@6890427a1f51a3e7e1df",
+	"id" : "calculator::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -69,8 +69,8 @@
 		],
 		"language" : "C"
 	},
-	"name" : "math_quiz",
-	"nameOnDisk" : "math_quiz",
+	"name" : "calculator",
+	"nameOnDisk" : "calculator",
 	"paths" : 
 	{
 		"build" : ".",
@@ -91,7 +91,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "math_quiz.c",
+			"path" : "calculator.c",
 			"sourceGroupIndex" : 0
 		}
 	],

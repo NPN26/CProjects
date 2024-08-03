@@ -3,7 +3,7 @@
   <component name="CMakePythonSetting">
     <option name="pythonIntegrationState" value="YES" />
   </component>
-  <component name="CMakeWorkspace" PROJECT_DIR="$PROJECT_DIR$/LinkedIn Challenges/Chapter_2_Math_Quiz">
+  <component name="CMakeWorkspace" PROJECT_DIR="$PROJECT_DIR$/Calculator">
     <contentRoot DIR="$PROJECT_DIR$" />
   </component>
 </project>
